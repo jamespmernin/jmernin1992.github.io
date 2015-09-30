@@ -1,3 +1,6 @@
-Total Time Spent:
+Correctly Implemented: Everything
+Incorrectly Implemented: Nothing
 
-9/22 - Roughly 0.5 hours
+Collaboration: I did not collaborate with anyone.
+
+Approximate Time Spent: 3.5 hours
