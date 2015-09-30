@@ -1,0 +1,48 @@
+body {
+	background-color: turquoise;
+	padding: 10px;
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 24px;
+	font-weight: bold;
+	color: purple;
+	text-align: center;
+}
+
+h2 {
+	font-family: helvetica;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: helvetica;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 12px;
+	font-style: italic;
+}
+
+p {
+	font-family: helvetica;
+	font-size: 12px;
+}
+
+.image {
+	display: block;
+	margin-left: 25%;
+}
+
+.name {
+	font-weight: bold;
+	color: purple;
+}
+
+.language {
+	font-weight: bold;
+}
